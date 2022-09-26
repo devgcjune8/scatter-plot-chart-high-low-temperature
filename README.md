@@ -1,0 +1,1 @@
+The data from this graph is taken from [weatherspark.com](https://weatherspark.com/compare/y/139471~136748/Comparison-of-the-Average-Weather-in-Cebu-City-and-San-Jose-del-Monte)

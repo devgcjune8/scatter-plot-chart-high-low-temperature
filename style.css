@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  background-color: #80e5ff;
+  overflow: hidden;
+}
+
+.hightemp {
+  fill: #ff4d4d;
+}
+
+.hightemp:hover {
+	fill: red;
+}
+
+
+.lowtemp {
+  fill: #1a8cff;
+}
+
+.lowtemp:hover {
+  fill: blue;
+}
+
+.axis-y-label {
+  color: blue;
+}
